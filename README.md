@@ -4,11 +4,11 @@
 
 ## Fichiers
 
-├── [Premier modèle (Chapitre 1)](premier_modele.md)       # Chapitre 1
-├── [Deuxième modèle](chapitre_2_modele.py)                # Chapitre 2
-├── [Bottleneck](bottleneck.py)                            # Mise en place de l'architecture bottleneck
-├── [Inverted Bottleneck](inverted_bottleneck.py)          # Mise en place de l'architecture inverted bottleneck
-├── [README](README.md)                                    # Documentation
+├── [Premier modèle (Chapitre 1)](premier_modele.md)       # Chapitre 1\
+├── [Deuxième modèle](chapitre_2_modele.py)                # Chapitre 2\
+├── [Bottleneck](bottleneck.py)                            # Mise en place de l'architecture bottleneck\
+├── [Inverted Bottleneck](inverted_bottleneck.py)          # Mise en place de l'architecture inverted bottleneck\
+├── [README](README.md)                                    # Documentation\
 
 ## Résultats
 
